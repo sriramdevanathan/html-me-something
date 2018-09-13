@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: lightblue;
+    background-image: linear-gradient(to bottom right, blue, black,yellow);
 }
 h1 {
     color: rgba(207, 107, 13, 0.664);
@@ -10,7 +10,7 @@ h1 {
 
 p {
     
-    color: purple;
+    color: yellowgreen;
 }
 
 b {
@@ -26,4 +26,14 @@ img
   p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
+}
+
+.footer {
+     color: red;
+     text-align: center;
+}
+
+#too_big {
+    width: 65%;
+    height: 65%;
 }
